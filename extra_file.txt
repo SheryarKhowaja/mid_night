@@ -1,2 +1,2 @@
-This is extra file and we dont need to upload it.
-In this lesson we will track and then untrack or offload it .
+this is the extra file
+in this case we will first load and then off load this file from stashing area
